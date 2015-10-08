@@ -1,0 +1,2 @@
+# templateStore
+Template Store Angular
